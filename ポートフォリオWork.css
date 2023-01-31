@@ -1,0 +1,41 @@
+*{
+  -sizing: border-box;
+  margin: 0;
+  padding:0;
+    background-color:#DBE2EF;
+}
+a {
+  text-decoration:none;
+}
+  .main-content {
+    color:#212121;
+  text-align: center;
+;
+  }
+.left-phot img ,.right-phot img {
+  width: 50vw;
+  height: 30vw;
+  padding: 　: 10vw　0;
+}
+
+
+
+
+@media (max-width: 1000px) {
+
+.main-content {
+  width: 100%;
+  margin: 15vw 10px;
+}
+.left-phot img ,.right-phot img {
+  width: 70%;
+  height: 30vw;
+  padding: 30px 0;
+
+}
+
+
+
+
+
+}
